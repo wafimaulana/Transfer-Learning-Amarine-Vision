@@ -35,7 +35,7 @@ Dokumen ini diharapkan dapat menjadi acuan dalam mengembangkan kemampuan di bida
 | 1     | Bonding & Introduction to Vision  | [Go to Week 1](week1/README.md) | Pengenalan Vision Amarine, gambaran pembelajaran, serta diskusi dasar computer vision              | Done        |
 | Bonus | Basic Python + OOP                | [Bonus Week](python-suplemen/objek_oriented_programming/) | Dasar Python, control flow, serta konsep OOP seperti class, object, inheritance, dan encapsulation | Done        |
 | 2     | Python Environment & Basic GitHub | [Go to Week 2](week2/README.md) | Setup Python environment serta penggunaan dasar GitHub (commit, push, pull)                        | Done        |
-| 3     | Fundamental Computer Vision       | -                   | Implementasi dasar computer vision menggunakan Python dan OpenCV                                   | -           |
+| 3     | NumPy & Matplotlib                | [Go to Week 3](week3/README.md) | Manipulasi array dengan NumPy, visualisasi data dengan Matplotlib, dan fondasi analisis data numerik | Done        |
 | 4     | Neural Network & Optimization     | -                   | TensorFlow, PyTorch, serta teknik optimasi model                                                   | -           |
 | 5     | Dataset Creation & Preprocessing  | -                   | Pembuatan dataset, labeling, augmentasi, dan pembagian data                                        | -           |
 | 6     | Introduction to YOLO              | -                   | Dasar YOLO, arsitektur, serta parameter awal                                                       | -           |
@@ -105,16 +105,26 @@ Praktik:
 
 ---
 
-## Week 3: Fundamental Computer Vision
+## Week 3: NumPy & Matplotlib
 
 Materi:
 
-* Dasar pengolahan citra
-* Penggunaan OpenCV
+* NumPy Array — pembuatan, manipulasi, dan operasi pada array multidimensi
+* Aritmatika & Linear Algebra — perkalian matriks, invers, determinan, persamaan linear
+* Indexing, Slicing & Iterasi pada array NumPy
+* Advanced Array Creation — zeros, ones, linspace, arange, random
+* Visualisasi dengan Matplotlib — pyplot, properti grafik, axis, label, title
+* Teks, Anotasi, Ticks & Spines pada grafik Matplotlib
 
 Studi Kasus:
 
-* Implementasi deteksi sederhana
+* Analisis data numerik dan visualisasi hasil menggunakan NumPy + Matplotlib
+* Penyelesaian sistem persamaan linear dengan `np.linalg.solve`
+
+Praktik:
+
+* Implementasi 11 topik NumPy dan 6 topik Matplotlib dalam file Python terpisah
+* Notebook gabungan `numpy_matplotlib.ipynb` sebagai ringkasan komprehensif
 
 ---
 
