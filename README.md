@@ -36,7 +36,7 @@ Dokumen ini diharapkan dapat menjadi acuan dalam mengembangkan kemampuan di bida
 | Bonus | Basic Python + OOP                | [Bonus Week](python-suplemen/objek_oriented_programming/) | Dasar Python, control flow, serta konsep OOP seperti class, object, inheritance, dan encapsulation | Done        |
 | 2     | Python Environment & Basic GitHub | [Go to Week 2](week2/README.md) | Setup Python environment serta penggunaan dasar GitHub (commit, push, pull)                        | Done        |
 | 3     | NumPy & Matplotlib                | [Go to Week 3](week3/README.md) | Manipulasi array dengan NumPy, visualisasi data dengan Matplotlib, dan fondasi analisis data numerik | Done        |
-| 4     | Neural Network & Optimization     | -                   | TensorFlow, PyTorch, serta teknik optimasi model                                                   | -           |
+| 4     | Introduction to OpenCV            | [Go to Week 4](week4/README.md) | Operasi dasar OpenCV, deteksi warna, dan manipulasi gambar/video                                    | Done        |
 | 5     | Dataset Creation & Preprocessing  | -                   | Pembuatan dataset, labeling, augmentasi, dan pembagian data                                        | -           |
 | 6     | Introduction to YOLO              | -                   | Dasar YOLO, arsitektur, serta parameter awal                                                       | -           |
 | Break | Academic Break                    | -                   | Penguatan materi Week 3 hingga Week 6                                                              | -           |
